@@ -1,0 +1,20 @@
+{
+  "name": "slidereveal",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~1.12.0",
+    "jquery": "~2.1.1"
+  },
+  "homepage": "https://github.com/nnattawat/slideReveal",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "07bf2a8e4ec7acb2cddcc45e5d5f806cee9279a8"
+  },
+  "_source": "git://github.com/nnattawat/slideReveal.git",
+  "_target": "~1.0.0",
+  "_originalSource": "slidereveal",
+  "_direct": true
+}
